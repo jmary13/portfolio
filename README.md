@@ -1,2 +1,15 @@
-# portfolio
-# 👩‍💻 Janne Mary  Estudante de Segurança da Informação   Interesse em Cibersegurança, Redes e Proteção de Dados  ## 📂 Projetos  🔹 Site em HTML e CSS   🔹 Exercícios de lógica   🔹 Laboratórios práticos    ## 🚀 Em aprendizado - Git e GitHub - Segurança da Informação - Redes
+# 👩‍💻 Janne Mary
+
+Estudante de Segurança da Informação  
+Iniciando na área de tecnologia e desenvolvimento web.
+
+## 📂 Projetos de aprendizado
+
+🔹 Primeiros sites em HTML  
+🔹 Exercícios práticos  
+🔹 Laboratórios simples
+
+## 🚀 Atualmente aprendendo
+- Lógica de programação
+- Git e GitHub
+- Segurança da Informação
